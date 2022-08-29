@@ -1,0 +1,8 @@
+C:\Users\AlexandraKorbalevich\Documents\Computer science\Alex\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch02\05\End\CodeClinic\WhereAmI\bin\Debug\WhereAmI.exe.config
+C:\Users\AlexandraKorbalevich\Documents\Computer science\Alex\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch02\05\End\CodeClinic\WhereAmI\bin\Debug\WhereAmI.exe
+C:\Users\AlexandraKorbalevich\Documents\Computer science\Alex\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch02\05\End\CodeClinic\WhereAmI\bin\Debug\WhereAmI.pdb
+C:\Users\AlexandraKorbalevich\Documents\Computer science\Alex\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch02\05\End\CodeClinic\WhereAmI\obj\Debug\WhereAmI.csproj.AssemblyReference.cache
+C:\Users\AlexandraKorbalevich\Documents\Computer science\Alex\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch02\05\End\CodeClinic\WhereAmI\obj\Debug\WhereAmI.csproj.SuggestedBindingRedirects.cache
+C:\Users\AlexandraKorbalevich\Documents\Computer science\Alex\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch02\05\End\CodeClinic\WhereAmI\obj\Debug\WhereAmI.csproj.CoreCompileInputs.cache
+C:\Users\AlexandraKorbalevich\Documents\Computer science\Alex\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch02\05\End\CodeClinic\WhereAmI\obj\Debug\WhereAmI.exe
+C:\Users\AlexandraKorbalevich\Documents\Computer science\Alex\Ex_Files_Code_Clinic_C_Sharp\Exercise Files\Ch02\05\End\CodeClinic\WhereAmI\obj\Debug\WhereAmI.pdb
